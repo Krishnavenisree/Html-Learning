@@ -1,0 +1,62 @@
+body{
+    background-color:black;
+    
+}
+h1,h2{
+ color: white;
+}
+img{
+border-width: 50px;
+    border-color: palegreen;
+    border-style: solid;
+}
+#p1{
+    color: white;
+}
+#p2{
+    color: white;
+    text-align: center;
+    
+}
+h2{
+    padding: 20px;
+    text-align: center;
+}
+h3{
+    color: white;
+    background-color: rgb(26, 26, 101);
+}
+.d{
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(199, 179, 153);
+    
+}
+.a{
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(199, 179, 153);
+    margin: 2px;
+}
+.m{
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(199, 179, 153);
+    margin: 2px;
+}
+.u{
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(199, 179, 153);
+    margin: 2px;
+}
+.dk{
+    display: inline-flex;
+}
+#k{
+    background-color: rgb(46, 33, 57);
+    
+}
+#p3{
+    color: white;
+}
